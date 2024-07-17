@@ -4,3 +4,8 @@
     gap: 30px;
     background-color: #508EE6;
 }
+
+a {
+    color: white;
+    font-size: larger;
+}
