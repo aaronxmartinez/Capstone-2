@@ -10,6 +10,15 @@ body {
     padding-bottom: 40px;
 }
 
+.button {
+    margin-top: 20px;
+    background-color: #77a5e6;
+    color: white;
+    font-size: x-large;
+    padding: 15px;
+    border-radius: 5px;
+}
+
 .footer {
     display: flex;
     flex: auto;
