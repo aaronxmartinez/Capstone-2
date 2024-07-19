@@ -9,6 +9,7 @@ body {
     gap: 30px;
     background-color: #77a5e6;
     height: 100px;
+    padding: 10px;
 }
 
 a {
