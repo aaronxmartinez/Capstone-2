@@ -5,17 +5,18 @@ body {
 .footer {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 30px;
     background-color: #77a5e6;
+    height: 100px;
 }
 
 a {
     font-size: larger;
     text-decoration: none;
-    color: #003f97;
+    color: white;
 }
 
 a:hover {
-    color: white;
     font-size: x-large;
 }
