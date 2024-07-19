@@ -6,11 +6,16 @@ body {
     display: flex;
     justify-content: center;
     gap: 30px;
-    background-color: #508EE6;
+    background-color: #77a5e6;
 }
 
 a {
-    color: white;
     font-size: larger;
     text-decoration: none;
+    color: #003f97;
+}
+
+a:hover {
+    color: white;
+    font-size: x-large;
 }
