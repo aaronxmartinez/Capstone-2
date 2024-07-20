@@ -10,6 +10,11 @@ body {
     padding-bottom: 40px;
 }
 
+.touch {
+    color: #77a5e6;
+    font-size: 40px;
+}
+
 .button {
     margin-top: 20px;
     background-color: #77a5e6;
