@@ -20,6 +20,11 @@ body {
     background-image: linear-gradient(#77a5e6, #006aff);
 }
 
+.button:hover {
+    background-image: none;
+    background-color: #759bd3;
+}
+
 .footer {
     display: flex;
     flex: auto;
