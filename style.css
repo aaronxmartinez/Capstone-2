@@ -17,6 +17,7 @@ body {
     font-size: x-large;
     padding: 15px;
     border-radius: 5px;
+    background-image: linear-gradient(#77a5e6, #006aff);
 }
 
 .footer {
