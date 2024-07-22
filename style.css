@@ -2,6 +2,13 @@ body {
     margin: 0%;
 }
 
+#skills {
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    align-items: center;
+}
+
 #contact {
     display: flex;
     flex: auto;
