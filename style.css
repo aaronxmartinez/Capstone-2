@@ -2,6 +2,7 @@ body {
     margin: 0%;
 }
 
+/* skills section */
 #skills {
     display: flex;
     flex-direction: column;
@@ -9,6 +10,12 @@ body {
     align-items: center;
 }
 
+.skills-title {
+    color: #77a5e6;
+    font-size: 40px;
+}
+
+/* contact section */
 #contact {
     display: flex;
     flex: auto;
@@ -49,6 +56,7 @@ body {
     background-color: #759bd3;
 }
 
+/* footer */
 .footer {
     display: flex;
     flex: auto;
