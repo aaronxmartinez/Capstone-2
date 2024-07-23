@@ -15,6 +15,18 @@ body {
     font-size: 40px;
 }
 
+.learning {
+    color:#3c72c3;
+}
+
+.mindset {
+    color:#3c72c3;
+}
+
+.motorcycle {
+    color: #3c72c3;
+}
+
 /* contact section */
 #contact {
     display: flex;
