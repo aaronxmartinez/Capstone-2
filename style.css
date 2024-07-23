@@ -16,6 +16,11 @@ body {
     text-decoration: underline;
 }
 
+.learning-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .learning {
     color:#3c72c3;
 }
