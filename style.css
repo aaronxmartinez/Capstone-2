@@ -2,26 +2,20 @@ body {
     margin: 0%;
 }
 
-#personal {
+.about_me {
     display: flex;
-    flex: auto;
     flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    border: solid pink;
-}
-
-.selfie {
-    display: flex;
-    margin: 0%;
     align-items: center;
-    border: solid black;
 }
-
+ 
 .hello {
     color: #77a5e6;
     font-size: 40px;
 }
+
+.personal_text {
+    width: 30%;
+} 
 
 /* skills section */
 #skills {
