@@ -6,7 +6,11 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #3c72c3;
+    color: #006aff;
+}
+
+.programmer {
+    color:#77a5e6
 }
 
 .about_me {
