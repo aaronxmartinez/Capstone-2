@@ -35,10 +35,22 @@ body {
     grid-area: 2 / 2 / 3 / 3;
 }
 
+/* mindset section */
+.mindset-design {
+    display: grid;
+    grid-template-columns: 0.9fr 1fr;
+    grid-template-rows: 0.5fr 1fr;
+    width: 60%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+}
+
 .mindset {
     color:#3c72c3;
 }
 
+
+/* motorcycle section */
 .motorcycle {
     color: #3c72c3;
 }
