@@ -9,8 +9,12 @@ body {
     color: #006aff;
 }
 
+h1 {
+    font-size: 50px;
+}
+
 .programmer {
-    color:#77a5e6
+    color:#77a5e6;
 }
 
 .about_me {
@@ -25,7 +29,7 @@ body {
 
 .hello {
     color: #77a5e6;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .personal_text {
@@ -42,7 +46,7 @@ body {
 
 .skills-title {
     color: #77a5e6;
-    font-size: 40px;
+    font-size: 35px;
     text-decoration: underline;
 }
 
@@ -114,7 +118,7 @@ body {
 
 .touch {
     color: #77a5e6;
-    font-size: 40px;
+    font-size: 35px;
     margin-top: 30px;
     margin-bottom: 20px;
     text-decoration: underline;
