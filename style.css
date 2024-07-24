@@ -55,6 +55,15 @@ body {
 }
 
 /* motorcycle section */
+.motorcycle-section {
+    display: grid;
+    grid-template-columns: 0.9fr 1 fr;
+    grid-template-rows: 0.5 1fr;
+    width: 60%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+}
+
 .motorcycle {
     color: #3c72c3;
 }
