@@ -19,10 +19,16 @@ body {
 .learning-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
 }
 
 .learning {
     color:#3c72c3;
+}
+
+.learning-text {
+    display: grid;
+    grid-area: 2 / 2 / 3 / 3;
 }
 
 .mindset {
