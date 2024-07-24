@@ -18,6 +18,11 @@ body {
     border: solid black;
 }
 
+.hello {
+    color: #77a5e6;
+    font-size: 40px;
+}
+
 /* skills section */
 #skills {
     display: flex;
