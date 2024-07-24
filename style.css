@@ -66,6 +66,11 @@ body {
 
 .motorcycle {
     color: #3c72c3;
+    grid-area: 1 / 2 / 2 / 3;
+}
+
+.motorcycle-text {
+    grid-area: 2 / 2 / 3 / 3;
 }
 
 /* contact section */
