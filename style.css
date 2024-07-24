@@ -2,6 +2,12 @@ body {
     margin: 0%;
 }
 
+#personal {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
 /* skills section */
 #skills {
     display: flex;
