@@ -7,7 +7,11 @@ body {
     flex-direction: column;
     align-items: center;
 }
- 
+
+.selfie {
+    border-radius: 30%;
+}
+
 .hello {
     color: #77a5e6;
     font-size: 40px;
