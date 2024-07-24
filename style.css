@@ -4,6 +4,8 @@ body {
 
 #personal {
     display: flex;
+    flex: auto;
+    flex-direction: column;
     justify-content: center;
     text-align: center;
 }
