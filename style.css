@@ -36,7 +36,7 @@ body {
 }
 
 /* mindset section */
-.mindset-design {
+.mindset-section {
     display: grid;
     grid-template-columns: 0.9fr 1fr;
     grid-template-rows: 0.5fr 1fr;
@@ -47,8 +47,12 @@ body {
 
 .mindset {
     color:#3c72c3;
+    grid-area: 1 / 2 / 2 / 3;
 }
 
+.mindset-text {
+    grid-area: 2 / 2 / 3 / 3;
+}
 
 /* motorcycle section */
 .motorcycle {
