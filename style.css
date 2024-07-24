@@ -18,12 +18,16 @@ body {
 
 .learning-section {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 0.9fr 1fr;
+    grid-template-rows: 0.5fr 1fr;
+    width: 60%;
+    margin: 100px auto 0 auto;
+    text-align: left;
 }
 
 .learning {
     color:#3c72c3;
+    grid-area: 1 / 2 / 2 / 3;
 }
 
 .learning-text {
