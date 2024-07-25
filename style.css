@@ -181,3 +181,11 @@ a {
 a:hover {
     font-size: x-large;
 }
+
+hr {
+    margin: 50px auto;
+    width: 30%;
+    background-color: #E6B877;
+    height: 2px;
+    border: none;
+}
