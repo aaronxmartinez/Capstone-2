@@ -25,6 +25,7 @@ h1 {
 .programmer {
     color:#77a5e6;
     font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .about_me {
@@ -40,6 +41,7 @@ h1 {
 .hello {
     color: #77a5e6;
     font-size: 35px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .personal_text {
@@ -58,6 +60,7 @@ h1 {
     color: #77a5e6;
     font-size: 35px;
     text-decoration: underline;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .learning-section {
@@ -134,6 +137,7 @@ h1 {
     margin-top: 30px;
     margin-bottom: 20px;
     text-decoration: underline;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .interested {
@@ -156,6 +160,7 @@ h1 {
     padding: 15px;
     border-radius: 5px;
     background-image: linear-gradient(#77a5e6, #006aff);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .button:hover {
